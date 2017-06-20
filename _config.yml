@@ -1,0 +1,10 @@
+# Site settings
+title: Ali Saad
+#email: aly2saad@gmail.com
+description: Data Spelunker
+github_username:  alisaad
+linkedin_username:  ali2saad
+email_username:  aly2saad
+
+# Build settings
+markdown: kramdown
