@@ -6,9 +6,9 @@ I took courses in statistics, probability, machine learning, and distributed com
 
 By the end of this year I'll complete six specialization in Coursera (Two Biggener level, Three Intermediate, and One Advanced). In particular I'm going to complete four specialization in one day, Yeah, I'll celebrate! :).
 
-As unusual behavior of me. I love chating about Technology specially in data science and machine learning. Also I'm a big fan of House of Cards and Silicon Vally series.
+I like talking about tech specially in data science and machine learning. Also I'm a big fan of House of Cards and Silicon Vally.
 Please feel free to reach me at anytime. My resume is available upon request.
 
-If you are a student: I'm too close to complete my first phase of my study paln I'll share it with my notes and follow up sheet with everyone to keep you motivated.
+If you are a student: I'm too close to complete my first level of my study paln I'll share it with my notes and follow up sheet with everyone to keep you motivated.
 
 // Updated 20-Jun'17
