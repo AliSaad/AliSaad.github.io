@@ -185,7 +185,7 @@
 <p><strong>Udacity</strong></p>
 <p><span style="color: #666699;">Data Engineering Nanodegree</span></p>
 <p><span style="color: #666699;">Data Scientist Nanodegree</span></p>
-<p><span style="color: #666699;">Natural Language Processing Nanodegree</span></p>
+<p><span style="color: #666699;">Natural Language Processing NanodegreeX</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
