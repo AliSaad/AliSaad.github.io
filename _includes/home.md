@@ -1,3 +1,33 @@
+<h1 style="font-size:2vw">
+<p align="center">
+  <b>Hi, I'm Ali Saad</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="https://cms.hi.com/uploads/Facebook_Logo_504728a787.jpg">
+</p>
+  </h1>
+
+
+<h1 style="color: #5e9ca0; text-align: center;">Hi, I'm - Ali Saad</h1>
+<p style="text-align: center;">&nbsp;<span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Also known as Ali Data</span></p>
+<p>&nbsp;</p>
+<div class="s-item-title">
+<div class="s-component s-text">
+<div>
+<div>WHO AM I?</div>
+</div>
+</div>
+</div>
+<div class="s-item-text">
+<div class="s-component s-text">
+<div class="s-component-content s-font-body">A well rounded Data Scientist Consultant<br />A multisport athlete: Ironman 70.3 - Freediver - Glider - Hiker - Climber<br />An aesthete</div>
+<div class="s-component-content s-font-body">&nbsp;</div>
+<div class="s-component-content s-font-body">Find out more below, and let's get in touch</div>
+</div>
+ 
+
 # Hi, I'm
 # Ali Saad
 
