@@ -21,7 +21,7 @@ Please feel free to reach me at anytime. My resume is available upon request.
 If you are a student: I'm too close to complete my first level of my study paln I'll share it with my notes and follow up sheet with everyone to keep you motivated.
 
 // Updated 20-Jun'17
-
+<h1 style="font-size:10vw">
 <p align="center">
   <b>Some Links:</b><br>
   <a href="#">Link 1</a> |
@@ -30,3 +30,4 @@ If you are a student: I'm too close to complete my first level of my study paln 
   <br><br>
   <img src="https://cms.hi.com/uploads/Facebook_Logo_504728a787.jpg">
 </p>
+  </h1>
