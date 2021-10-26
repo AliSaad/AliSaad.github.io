@@ -4,7 +4,7 @@
 <div class="s-item-title">
 <div class="s-component s-text">
 <div>
-<h2 style="text-align: left;">WHO AM I?</h2>
+<h2 style="text-align: left;"><strong>WHO AM I?</strong></h2>
 </div>
 </div>
 </div>
