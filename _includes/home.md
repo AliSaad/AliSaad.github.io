@@ -162,7 +162,7 @@
 <table style="height: 234px; width: 70.7424%; border-collapse: collapse; border-style: hidden; margin-left: auto; margin-right: auto;" border="1" cellspacing="300" cellpadding="25">
 <tbody>
 <tr style="height: 234px;">
-<td style="width: 50%; text-align: center; height: 234px;">
+<td style="width: 70.7424px; text-align: center; height: 234px;">
 <p><strong><img style="border-width: 1px; border-style: solid; display: block; margin-left: auto; margin-right: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nile_University_Logo.png/220px-Nile_University_Logo.png" alt="" width="200" height="200" /></strong></p>
 <p><strong>Nile University</strong></p>
 <p><span style="color: #666699;">Professional Diploma in Big Data and Data Science</span></p>
@@ -184,7 +184,7 @@
 <p><strong>Udacity</strong></p>
 <p><span style="color: #666699;">Data Engineering Nanodegree</span></p>
 <p><span style="color: #666699;">Data Scientist Nanodegree</span></p>
-<p><span style="color: #666699;">Natural Language Processing NanodegreeXX</span></p>
+<p><span style="color: #666699;">Natural Language Processing Nanodegree</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -193,7 +193,6 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
 
 
 # Hi, I'm
