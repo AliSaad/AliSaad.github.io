@@ -159,7 +159,7 @@
 </div>
 <p>&nbsp;</p>
 <h2 style="text-align: center;"><strong>-&mdash;- EDUCATION </strong><strong>-&mdash;-</strong></h2>
-<table style="height: 234px; width: 70.7424%; border-collapse: collapse; border-style: hidden; margin-left: auto; margin-right: auto;" border="1">
+<table style="height: 234px; width: 70.7424%; border-collapse: collapse; border-style: hidden; margin-left: auto; margin-right: auto;" border="1" cellspacing="300" cellpadding="25">
 <tbody>
 <tr style="height: 234px;">
 <td style="width: 50%; text-align: center; height: 234px;">
@@ -184,7 +184,7 @@
 <p><strong>Udacity</strong></p>
 <p><span style="color: #666699;">Data Engineering Nanodegree</span></p>
 <p><span style="color: #666699;">Data Scientist Nanodegree</span></p>
-<p><span style="color: #666699;">Natural Language Processing Nanodegree</span></p>
+<p><span style="color: #666699;">Natural Language Processing NanodegreeX</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
