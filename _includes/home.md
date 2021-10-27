@@ -158,12 +158,11 @@
 </div>
 </div>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 <h2 style="text-align: center;"><strong>-&mdash;- EDUCATION </strong><strong>-&mdash;-</strong></h2>
-<table style="height: 234px; width: 600px; border-collapse: collapse; border-style: hidden; margin-left: auto; margin-right: auto;" border="1" cellspacing="300" cellpadding="25">
+<table style="height: 234px; width: 604px; border-collapse: collapse; border-style: hidden; margin-left: auto; margin-right: auto;" border="1" cellspacing="300" cellpadding="25">
 <tbody>
 <tr style="height: 234px;">
-<td style="width: 210px; text-align: center; height: 234px;">
+<td style="width: 200px; text-align: center; height: 234px;">
 <p><strong><img style="border-width: 1px; border-style: solid; display: block; margin-left: auto; margin-right: auto;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Nile_University_Logo.png/220px-Nile_University_Logo.png" alt="" width="200" height="200" /></strong></p>
 <p><strong>Nile University</strong></p>
 <p><span style="color: #666699;">Professional Diploma in Big Data and Data Science</span></p>
@@ -172,7 +171,7 @@
 <p><span style="color: #808080;">One of the leading Tech univerisities in Egypt</span></p>
 <p>&nbsp;</p>
 </td>
-<td style="width: 210px; text-align: center; height: 234px;">
+<td style="width: 200px; text-align: center; height: 234px;">
 <p><strong><img style="border-width: 1px; border-style: solid; display: block; margin-left: auto; margin-right: auto;" src="https://www.clapa.com/wp-content/uploads/2020/11/UWE-logo.png" alt="" width="200" height="200" /></strong></p>
 <p><strong>&nbsp;University of the West of England</strong></p>
 <p><span style="color: #666699;">MSc Data Science<br /><br /></span></p>
@@ -181,11 +180,11 @@
 <p><span style="color: #808080;">&nbsp;#28 The Guardian (2020) ranking<br /></span></p>
 <p>&nbsp;</p>
 </td>
-<td style="width: 210px; text-align: center;"><img style="border-width: 1px; border-style: solid;" src="https://iconape.com/wp-content/files/ga/371587/svg/371587.svg" alt="" width="200" height="200" />
+<td style="width: 200px; text-align: center;"><img style="border-width: 1px; border-style: solid;" src="https://iconape.com/wp-content/files/ga/371587/svg/371587.svg" alt="" width="200" height="200" />
 <p><strong>Udacity</strong></p>
 <p><span style="color: #666699;">Data Engineering Nanodegree</span></p>
 <p><span style="color: #666699;">Data Scientist Nanodegree</span></p>
-<p><span style="color: #666699;">Natural Language Processing Nanodegree</span></p>
+<p><span style="color: #666699;">Natural Language Processing NanodegreeX</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -194,6 +193,8 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+
+
 
 # Hi, I'm
 # Ali Saad
