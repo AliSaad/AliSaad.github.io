@@ -22,7 +22,8 @@
 <li style="list-style-type: none;">
 <div class="s-component s-text">
 <div style="text-align: center;">
-<h2><strong>&nbsp;-&mdash;- EXPERIENCE </strong><strong>-&mdash;-</strong></h2>
+<p>&nbsp;</p>
+  <h2><strong>&nbsp;-&mdash;- EXPERIENCE </strong><strong>-&mdash;-</strong></h2>
 <h2>&nbsp;</h2>
 </div>
 </div>
@@ -229,6 +230,7 @@
 </ul>
 </li>
 </ul>
+<p>&nbsp;</p>
 <h2 style="text-align: center;"><strong>-&mdash;- Things I love to do</strong><strong>-&mdash;-</strong></h2>
 <p style="text-align: center;"><strong>Triathlon - Gliding - Freediving - Hiking - Climbing</strong></p>
 <p><strong><img src="https://raw.githubusercontent.com/AliSaad/alisaad.github.io/master/_includes/layout.JPG" alt="Triathlon - Gliding - Freediving - Hiking - Climbing" width="704" height="527" /></strong></p>
