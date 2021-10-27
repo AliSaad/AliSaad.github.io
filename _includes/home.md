@@ -16,7 +16,7 @@
 <p class="s-component-content s-font-body"><em><span style="color: #808080;"><strong>What's the best next thing to do?<br /></strong><strong>Where I can improve, what can I do to improve.</strong></span></em></p>
 <h3 class="s-component-content s-font-body">&nbsp;</h3>
 <p style="text-align: justify;"><strong>Ali holds a MSc degree in Data Science from The University of the West of England in UK. Also, he studied Professional Diploma in Big Data and Data Science from Nile University in Egypt.</strong></p>
-<p style="text-align: justify;"><strong>Ali has more than 5 years of professional work experience in Data Science. He worked within different industries and across different challenges. Ali is interested in applying data science to serve human needs, problems and to help them grow. I always try to achieve that throughout my career.</strong></p>
+<p style="text-align: justify;"><strong>Ali has more than 5 years of professional work experience in Data Science.  Ali is interested in applying data science to solve societal problems and to help people grow. I'll try to leave a big impact.</strong></p>
 <h2 style="color: #2e6c80;">Find out more below, and let's get in touch:</h2>
 <ol>
 <li style="list-style-type: none;">
