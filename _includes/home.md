@@ -184,7 +184,7 @@
 <p><strong>Udacity</strong></p>
 <p><span style="color: #666699;">Data Engineering Nanodegree</span></p>
 <p><span style="color: #666699;">Data Scientist Nanodegree</span></p>
-<p><span style="color: #666699;">Natural Language Processing NanodegreeX</span></p>
+<p><span style="color: #666699;">Natural Language Processing Nanodegree</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 </td>
@@ -193,39 +193,40 @@
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-
-
-
-# Hi, I'm
-# Ali Saad
-
-Welcome to my space.
-
-This is Ali Saad - A data 
-
-Experienced in data productization, web crawling, and building intelligent decision support systems. Domain-knowledge in entrepreneurship, and education. Passionate about data at scale; distributed systems; AI methods, models to make products out of it.
-
-I am passionate about data science about digging in data to extract valuable information and building smart things to give people capability to make their decisions based on data.
-
-I'm on my way to complete my diploma in Big Data and Data Science at Nile University in August 2017.	
-
-I took courses in statistics, probability, machine learning, and distributed computer systems. I am working with tools such as R, Python, SQL/NoSQL, Hadoop, and Spark.
-
-By the end of this year I'll complete six specialization in Coursera (Two Biggener level, Three Intermediate, and One Advanced). In particular I'm going to complete four specialization in one day, Yeah, I'll celebrate! :).
-
-I like talking about tech specially in data science and machine learning. Also I'm a big fan of House of Cards and Silicon Vally.
-Please feel free to reach me at anytime. My resume is available upon request.
-
-If you are a student: I'm too close to complete my first level of my study paln I'll share it with my notes and follow up sheet with everyone to keep you motivated.
-
-// Updated 20-Jun'17
-<h1 style="font-size:2vw">
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="https://raw.githubusercontent.com/AliSaad/alisaad.github.io/master/_includes/layout.JPG">
-</p>
-  </h1>
+<h2 style="text-align: center;"><strong>-&mdash;- TEACHING AND COMMUNITY-SUPPORT</strong><strong>-&mdash;-</strong></h2>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="list-style-type: none;">
+<ul style="list-style-position: initial; list-style-image: initial; font-size: 14px; line-height: 32px; font-weight: bold;">
+<li style="clear: both; text-align: left;"><img style="float: left;" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="" width="40" height="40" />&nbsp; Developed course content with Facebook Developers Circle in UK.</li>
+<li style="clear: both; text-align: left;"><img style="float: left;" src="https://media-exp1.licdn.com/dms/image/C4D0BAQFPUuzXUAT_7A/company-logo_100_100/0/1519863517007?e=1643241600&amp;v=beta&amp;t=5k4GtifqvKO9ZDjczTg45hidYfjz3Sd0OUuZSJXmLLw" alt="" width="40" height="40" />&nbsp; Teacher assistant of data science and machine learning course on Edraak</li>
+<li style="clear: both; text-align: left;"><strong>Mentored multiple hackathons across Egypt in the area of data science and analytics.</strong></li>
+<li style="clear: both; text-align: left;"><strong>Talked in multiple wibinars in Data Science:</strong>
+<ul style="list-style-position: initial; list-style-image: initial; font-size: 14px; line-height: 32px; font-weight: bold;">
+<li style="clear: both; text-align: left;"><a href="https://www.youtube.com/watch?v=cUnhL7Sf7mY" target="_blank"> Arab Bank | AB Accelerator - Data Science in the Banking Industry</a>&nbsp;</li>
+<li style="clear: both; text-align: left;"><a href="https://drive.google.com/file/d/1DfCitrDhiIH3gwwab3vFSlBIBu9Cd5e9/view" target="_blank">Introduction to Data Science for University Freshers</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<h2 style="text-align: center;"><strong>-&mdash;- DATA STACK HANDS-ON EXPERIENCE</strong><strong>-&mdash;-</strong></h2>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">DevOps: Docker, GCP, git, and bash.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Python libraries: pandas, numpy, sklearn, SciPY, matplotlib, seaborn, NLTK, beautiful soap, scrapy.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">R libraries: data.frame, dplyr, plyr, rvest, selenium, ggplot2, tidyverse, tidytextmining, mlr, caret, e1071, adabag, adaboost, bioconductor.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Others: Metabase, R Shiny, Tableau, superset, google data studio, and SQL.</span></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
