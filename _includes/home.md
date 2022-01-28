@@ -1,4 +1,4 @@
-<h1 style="color: #5e9ca0; text-align: center;">Hi, I'm - Ali Saad</h1>
+<!-- <h1 style="color: #5e9ca0; text-align: center;">Hi, I'm - Ali Saad</h1>
 <p style="text-align: center;">&nbsp;<span style="background-color: #2b2301; color: #fff; display: inline-block; padding: 3px 10px; font-weight: bold; border-radius: 5px;">Also Known As Ali Data</span></p>
 <p style="text-align: center;">Welcome to my Space :)</p>
 <p>&nbsp;</p>
@@ -244,3 +244,4 @@
 <li style="text-align: left;"><strong><span style="color: #808080;">Harvard Data Science Review Podcast</span></strong></li>
 <li style="text-align: left;"><strong><span style="color: #808080;">Business Wars Podcast</span></strong></li>
 </ul>
+ -->
